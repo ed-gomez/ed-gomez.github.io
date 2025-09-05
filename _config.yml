@@ -27,6 +27,7 @@ email: someNewEmail@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ed-gomez
+linkedin_username: edwinf-gomez
 
 # Build settings
 theme: minima
